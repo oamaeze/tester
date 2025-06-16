@@ -1,0 +1,1 @@
+#okay i acc kinda get it anything with origin will link to the main repo straight, so ima test it with the local main repo
